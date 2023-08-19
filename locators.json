@@ -1,0 +1,72 @@
+{
+    "btn_order": {
+        "screenshot": ".images\\btn_order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "btn_orderanother": {
+        "screenshot": ".images\\btn_orderanother-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order-another"
+    },
+    "btn_preview": {
+        "screenshot": ".images\\btn_preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    },
+    "btn_yep": {
+        "screenshot": ".images\\btn_yep-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "(//button[@type='button'])[2]"
+    },
+    "dd_head": {
+        "screenshot": ".images\\dd_head-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "head"
+    },
+    "img_preview": {
+        "screenshot": ".images\\img_preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "robot-preview-image"
+    },
+    "img_receipt": {
+        "screenshot": ".images\\img_receipt-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "receipt"
+    },
+    "in_address": {
+        "screenshot": ".images\\in_address-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "in_legs": {
+        "screenshot": ".images\\in_legs-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "xpath",
+        "type": "browser",
+        "value": "//div[@id='root']/div/div/div/div/form/div[3]/input"
+    },
+    "rdbtn_body": {
+        "screenshot": ".images\\rdbtn_body-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "name",
+        "type": "browser",
+        "value": "body"
+    }
+}
